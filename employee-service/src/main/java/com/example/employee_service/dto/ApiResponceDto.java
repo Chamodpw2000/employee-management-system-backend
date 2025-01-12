@@ -13,6 +13,7 @@ public class ApiResponceDto {
 
     private EmployeeDto employeeDto;
     private DepartmentDto departmentDto;
+    private OrganizationDto organizationDto;
 
 
 

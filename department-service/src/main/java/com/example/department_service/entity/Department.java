@@ -22,8 +22,7 @@ public class Department {
 
     private String departmentName;
     private String departmentDescription;
+    @Column(nullable = false, unique = true)
     private String departmentCode;
-
-
 
 }
