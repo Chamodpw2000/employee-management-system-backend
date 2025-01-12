@@ -85,12 +85,12 @@ public class Organization {
         this.organizationName = organizationName;
     }
 
-    public Organization( String organizationCode, String organizationDescription, String organizationName) {
-
-        this.organizationCode = organizationCode;
-        this.organizationDescription = organizationDescription;
-        this.organizationName = organizationName;
-    }
+//    public Organization( String organizationCode, String organizationDescription, String organizationName) {
+//
+//        this.organizationCode = organizationCode;
+//        this.organizationDescription = organizationDescription;
+//        this.organizationName = organizationName;
+//    }
 
 
 }

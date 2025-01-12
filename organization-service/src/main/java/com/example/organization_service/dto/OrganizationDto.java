@@ -34,7 +34,11 @@ public class OrganizationDto {
         this.organizationName = organizationName;
     }
 
-    public OrganizationDto( String organizationCode, String organizationDescription, String organizationName) {
+
+    public OrganizationDto() {
+    }
+
+    public OrganizationDto(String organizationCode, String organizationDescription, String organizationName) {
 
         this.organizationCode = organizationCode;
         this.organizationDescription = organizationDescription;
